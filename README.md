@@ -1,8 +1,8 @@
-# Smart-Health-Safety-Monitoring
-Arduino UNO-based health and environmental safety monitoring system with a Python dashboard.
+# Smart-Environment-and-Safety-Monitoring-System
+Arduino UNO-based environmental and safety monitoring system with a Python dashboard.
 
 ## Project Overview
-An Arduino UNO-based system designed to monitor environmental conditions and provide health and safety monitoring features.
+An Arduino UNO-based system designed to monitor environmental conditions and safety monitoring features.
 
 ## Hardware Components
 - Arduino UNO
